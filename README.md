@@ -1,8 +1,5 @@
 .This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
-<ins>App Preview</ins>
-![Project Preview](src/images/youtubemp3.png)
-
 ## Available Scripts
 
 In the project directory, you can run:
